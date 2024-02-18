@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Akıllı Çiftçi</string>
+    <string name="app_desc">Akıllı Çiftçi uygulaması çiftçilerin tarlalarındaki toprak ve hava durumunu takip edebilmeleri için geliştirilmiştir. Uygulama sayesinde çiftçiler tarlalarındaki toprak ve hava durumunu takip edebilir, verileri kaydedebilir ve analiz edebilirler.</string>
+</resources>
